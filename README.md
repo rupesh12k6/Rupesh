@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a passionate software developer dedicated to c
 
 ## 🎯 About Me
 
-I'm Rupesh, a **full-stack software developer** with a strong focus on backend development using Java. I'm driven by the challenge of solving complex problems through code and have a genuine passion for continuous learning. My approach combines technical excellence with practical thinking—I believe in writing code that's not just functional, but also maintainable and scalable.
+I'm Rupesh, a **full-stack software developer** with a strong focus on backend development using Java. I'm driven by the challenge of solving complex problems through code and have a genuine passion for building applications that solve real-world challenges.
 
-With experience spanning from enterprise-level applications to innovative startup projects, I've developed a versatile skill set that allows me to adapt quickly to new technologies and frameworks. I thrive in collaborative environments and take pride in delivering solutions that exceed expectations.
+With experience spanning from enterprise-level applications to innovative startup projects, I've developed a versatile skill set that allows me to adapt quickly to new technologies and frameworks.
 
 ---
 
@@ -51,9 +51,9 @@ An enterprise-level application designed to manage hospital operations efficient
 A security-focused API project highlighting expertise in building robust and protected endpoints. Demonstrates best practices in API security and authentication.
 - Repository: [BotShieldAPI](https://github.com/rupesh12k6/BotShieldAPI)
 
-### **ChatBot** | HTML, JavaScript
-An interactive chatbot application showcasing frontend development skills and user experience design. Built with modern web technologies for seamless interaction.
-- Repository: [ChatBot](https://github.com/rupesh12k6/ChatBot)
+### **Subject Guide** | Java
+A comprehensive guide and resource system designed for structured learning and knowledge management. Showcases ability to organize complex information and build intuitive reference systems.
+- Repository: [Subject Guide](https://github.com/rupesh12k6/SubjectGuide)
 
 ### **Ascendix Internship Projects** | Java
 A series of structured learning projects that solidified my foundation in Java and software development best practices:
